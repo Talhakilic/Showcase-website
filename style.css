@@ -96,7 +96,9 @@ body {
     background-color: rgb(0, 153, 0);
     position: -webkit-sticky;
     top: 0;
-    margin: 0px 0px 20px 0px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
 }
 
 .navbar a {
@@ -104,12 +106,8 @@ body {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 25px;
+    padding: 14px 30px;
     text-decoration: none;
-}
-
-#firstitem {
-    margin-left: 43%;
 }
 
 .navbar a:hover {
